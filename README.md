@@ -1,4 +1,4 @@
-# OpenGL3D
+# OpenGL 3D
 
 ### A Graphics project of mine which I spent a lot of time working on but will continue to update it from time to time. Currently the project displays only triangular
 ### meshes and is written in C++. My next step is adding GUI and currently transfromations on models are done via keyboard.
